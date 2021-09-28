@@ -23,10 +23,10 @@
   <a href = "mailto:cahsylver@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/cahsylver" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
- <a href="https://www.linkedin.com/in/cahsylver" target="_blank"><img src="https://komarev.com/ghpvc/?username=cahsylver&color=green" alt="cahsylver"/> 
+ <img src="https://komarev.com/ghpvc/?username=cahsylver&color=green" alt="cahsylver"/> 
  
   ![Snake animation](https://github.com/cahsylver/cahsylver/blob/output/github-contribution-grid-snake.svg)
  
-  <p>Referência: </p> https://github.com/rafaballerini/PerfilGithub
+  Referência: https://github.com/rafaballerini/PerfilGithub
  
 </div>
