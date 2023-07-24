@@ -1,4 +1,4 @@
-### Hi I'm Carina Silveira👋
+### Hi, I'm Carina Silveira👋
 
  <div>
   <a href="https://github.com/carinasylver">
@@ -12,29 +12,16 @@
   <img align="center" alt="cah-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">  
   <img align="center" alt="cah-POSTGRESQL" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
   <img align="center" alt="cah-LINUX" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-          
-  
-          
- 
-   
-          
-  
-  
-
-  <img align="right" alt="carina-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
 </div>
   
   ##
  
 <div> 
 
- <a href="https://discord.com/channels/carina.silveira#3026" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:cahsylver@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
+ <a href="https://discord.com/channels/carinasylver" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:cah.sylver@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
  <img src="https://komarev.com/ghpvc/?username=carinasylver&color=green" alt="carinasylver"/> 
  
-  ![Snake animation](https://github.com/carinasylver/carinasylver/blob/output/github-contribution-grid-snake.svg)
- 
-  Referência: https://github.com/rafaballerini/PerfilGithub
- 
+
 </div>
